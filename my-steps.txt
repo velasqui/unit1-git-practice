@@ -83,10 +83,13 @@ mkdir drinks
 rm -r drinks
 
 ### Step 4
-
+git init
+git add .
+git commit -m 'initial commit'
 
 ### Step 5
-
+git remote add origin https://github.com/velasqui/unit1-git-practice
+git push -u origin master
 
 ### Step 6
 
